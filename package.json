@@ -1,0 +1,56 @@
+{
+  "name": "a11y-audit-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "dev-secure": "NODE_TLS_REJECT_UNAUTHORIZED=0 nuxt dev --https --ssl-cert localhost.pem --ssl-key localhost-key.pem",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint --ext .js,.ts,.vue --ignore-path .eslintignore .",
+    "format-check": "npx prettier --check ./",
+    "format-write": "npx prettier --write ./",
+    "typecheck": "npx nuxi typecheck"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config-typescript": "^12.1.0",
+    "@types/node": "^18.17.14",
+    "eslint": "^8.48.0",
+    "eslint-config-prettier": "^8.10.0",
+    "eslint-plugin-nuxt": "^4.0.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-vue": "^9.17.0",
+    "prettier": "^2.8.8",
+    "prettier-plugin-tailwindcss": "^0.1.13",
+    "sass": "^1.66.1",
+    "sass-loader": "^10.4.1",
+    "supabase": "^2.0.0"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.9.0",
+    "@nuxtjs/supabase": "^1.0.2",
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "@vee-validate/yup": "^4.11.8",
+    "@vueuse/core": "^10.4.1",
+    "@vueuse/nuxt": "^10.4.1",
+    "axe-core": "^4.9.0",
+    "nuxt": "^3.7.0",
+    "nuxt-svgo": "^3.5.0",
+    "playwright": "^1.43.1",
+    "primeicons": "^6.0.1",
+    "primevue": "^3.33.0",
+    "typescript": "^5.2.2",
+    "vee-validate": "^4.11.3",
+    "vue-virtual-scroller": "2.0.0-beta.8",
+    "yup": "^1.2.0"
+  },
+  "engines": {
+    "node": ">=18",
+    "pnpm": ">=8"
+  },
+  "volta": {
+    "node": "18.17.1",
+    "pnpm": "8.7.1"
+  }
+}
