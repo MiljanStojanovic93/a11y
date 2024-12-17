@@ -1,6 +1,6 @@
 
 import { updateAppConfig } from '#app'
-import { defuFn } from '/home/miljan/Projects/a11y-audit-tool-master/node_modules/.pnpm/defu@6.1.2/node_modules/defu/dist/defu.mjs'
+import { defuFn } from '/home/miljan/Projects/a11y-audit-tool-master-online/node_modules/.pnpm/defu@6.1.2/node_modules/defu/dist/defu.mjs'
 
 const inlineConfig = {}
 
