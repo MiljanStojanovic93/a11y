@@ -1,0 +1,1 @@
+export { default } from "file:///home/miljan/Projects/a11y-audit-tool-master/node_modules/.pnpm/@nuxt+vite-builder@3.7.0_@types+node@18.17.14_eslint@8.48.0_optionator@0.9.3_rollup@3.28.1_sa_3r3k2eii3tlwbzt7sb7bllpwru/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
