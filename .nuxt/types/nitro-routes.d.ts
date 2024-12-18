@@ -10,7 +10,7 @@ declare module 'nitropack' {
       'get': Simplify<Serialize<Awaited<ReturnType<typeof import('../../server/api/users.get').default>>>>
     }
     '/__nuxt_error': {
-      'default': Simplify<Serialize<Awaited<ReturnType<typeof import('../../node_modules/.pnpm/nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optionator@0.9.3_rollup@3_xzmsy53qnpxagnlftxpwxubjfm/node_modules/nuxt/dist/core/runtime/nitro/renderer').default>>>>
+      'default': Simplify<Serialize<Awaited<ReturnType<typeof import('../../node_modules/.pnpm/nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optionator@0.9.3_rollup@3_vy4kg3cbw3g6iuey5zpvtdq57i/node_modules/nuxt/dist/core/runtime/nitro/renderer').default>>>>
     }
   }
 }

@@ -80,13 +80,13 @@
         "../validation/*"
       ],
       "#app": [
-        "../node_modules/.pnpm/nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optionator@0.9.3_rollup@3_xzmsy53qnpxagnlftxpwxubjfm/node_modules/nuxt/dist/app"
+        "../node_modules/.pnpm/nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optionator@0.9.3_rollup@3_vy4kg3cbw3g6iuey5zpvtdq57i/node_modules/nuxt/dist/app"
       ],
       "#app/*": [
-        "../node_modules/.pnpm/nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optionator@0.9.3_rollup@3_xzmsy53qnpxagnlftxpwxubjfm/node_modules/nuxt/dist/app/*"
+        "../node_modules/.pnpm/nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optionator@0.9.3_rollup@3_vy4kg3cbw3g6iuey5zpvtdq57i/node_modules/nuxt/dist/app/*"
       ],
       "vue-demi": [
-        "../node_modules/.pnpm/nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optionator@0.9.3_rollup@3_xzmsy53qnpxagnlftxpwxubjfm/node_modules/nuxt/dist/app/compat/vue-demi"
+        "../node_modules/.pnpm/nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optionator@0.9.3_rollup@3_vy4kg3cbw3g6iuey5zpvtdq57i/node_modules/nuxt/dist/app/compat/vue-demi"
       ],
       "#vue-router": [
         "./vue-router"
@@ -113,8 +113,8 @@
     "../node_modules/.pnpm/nuxt-svgo@3.5.0_rollup@3.28.1/node_modules/nuxt-svgo/dist/runtime",
     "../node_modules/.pnpm/@nuxtjs+supabase@1.0.2_rollup@3.28.1/node_modules/@nuxtjs/supabase/runtime",
     "../node_modules/.pnpm/@nuxtjs+supabase@1.0.2_rollup@3.28.1/node_modules/@nuxtjs/supabase/dist/runtime",
-    "../node_modules/.pnpm/@vueuse+nuxt@10.4.1_nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optio_7loim5kvetr4gtqg74osvbwzb4/node_modules/@vueuse/nuxt/runtime",
-    "../node_modules/.pnpm/@vueuse+nuxt@10.4.1_nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optio_7loim5kvetr4gtqg74osvbwzb4/node_modules/@vueuse/nuxt/dist/runtime",
+    "../node_modules/.pnpm/@vueuse+nuxt@10.4.1_nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optio_6kwasutqa35wupqrmjw4bk72tu/node_modules/@vueuse/nuxt/runtime",
+    "../node_modules/.pnpm/@vueuse+nuxt@10.4.1_nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optio_6kwasutqa35wupqrmjw4bk72tu/node_modules/@vueuse/nuxt/dist/runtime",
     "../node_modules/@nuxt/telemetry/runtime",
     "../node_modules/@nuxt/telemetry/dist/runtime",
     ".."
@@ -122,15 +122,15 @@
   "exclude": [
     "../dist",
     "../node_modules",
-    "../node_modules/.pnpm/nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optionator@0.9.3_rollup@3_xzmsy53qnpxagnlftxpwxubjfm/node_modules/nuxt/node_modules",
+    "../node_modules/.pnpm/nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optionator@0.9.3_rollup@3_vy4kg3cbw3g6iuey5zpvtdq57i/node_modules/nuxt/node_modules",
     "../node_modules/.pnpm/@nuxtjs+tailwindcss@6.8.0_rollup@3.28.1_webpack@5.88.2/node_modules/@nuxtjs/tailwindcss/runtime/server",
     "../node_modules/.pnpm/@nuxtjs+tailwindcss@6.8.0_rollup@3.28.1_webpack@5.88.2/node_modules/@nuxtjs/tailwindcss/dist/runtime/server",
     "../node_modules/.pnpm/nuxt-svgo@3.5.0_rollup@3.28.1/node_modules/nuxt-svgo/runtime/server",
     "../node_modules/.pnpm/nuxt-svgo@3.5.0_rollup@3.28.1/node_modules/nuxt-svgo/dist/runtime/server",
     "../node_modules/.pnpm/@nuxtjs+supabase@1.0.2_rollup@3.28.1/node_modules/@nuxtjs/supabase/runtime/server",
     "../node_modules/.pnpm/@nuxtjs+supabase@1.0.2_rollup@3.28.1/node_modules/@nuxtjs/supabase/dist/runtime/server",
-    "../node_modules/.pnpm/@vueuse+nuxt@10.4.1_nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optio_7loim5kvetr4gtqg74osvbwzb4/node_modules/@vueuse/nuxt/runtime/server",
-    "../node_modules/.pnpm/@vueuse+nuxt@10.4.1_nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optio_7loim5kvetr4gtqg74osvbwzb4/node_modules/@vueuse/nuxt/dist/runtime/server",
+    "../node_modules/.pnpm/@vueuse+nuxt@10.4.1_nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optio_6kwasutqa35wupqrmjw4bk72tu/node_modules/@vueuse/nuxt/runtime/server",
+    "../node_modules/.pnpm/@vueuse+nuxt@10.4.1_nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optio_6kwasutqa35wupqrmjw4bk72tu/node_modules/@vueuse/nuxt/dist/runtime/server",
     "../node_modules/@nuxt/telemetry/runtime/server",
     "../node_modules/@nuxt/telemetry/dist/runtime/server",
     "../.output"

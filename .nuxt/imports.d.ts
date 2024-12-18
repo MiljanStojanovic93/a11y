@@ -16,4 +16,4 @@ export { getStatus } from '../utils/get-status';
 export { oneMinuteInMilliseconds, timezoneOffsetInMilliseconds, hasTimeElapsedInMinutes } from '../utils/time';
 export { useSupabaseClient } from '../node_modules/.pnpm/@nuxtjs+supabase@1.0.2_rollup@3.28.1/node_modules/@nuxtjs/supabase/dist/runtime/composables/useSupabaseClient';
 export { useSupabaseUser } from '../node_modules/.pnpm/@nuxtjs+supabase@1.0.2_rollup@3.28.1/node_modules/@nuxtjs/supabase/dist/runtime/composables/useSupabaseUser';
-export { definePageMeta } from '../node_modules/.pnpm/nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optionator@0.9.3_rollup@3_xzmsy53qnpxagnlftxpwxubjfm/node_modules/nuxt/dist/pages/runtime/composables';
+export { definePageMeta } from '../node_modules/.pnpm/nuxt@3.7.0_@parcel+watcher@2.3.0_@types+node@18.17.14_eslint@8.48.0_optionator@0.9.3_rollup@3_vy4kg3cbw3g6iuey5zpvtdq57i/node_modules/nuxt/dist/pages/runtime/composables';

@@ -1,1 +1,0 @@
-import{d as a,o as t,c as o,e as s}from"./entry.bde0faaf.js";const r={class:"mb-8"},d=a({__name:"reset-password",setup(n){return(p,e)=>(t(),o("div",r,e[0]||(e[0]=[s("h1",{class:"Login"},"Reset password",-1),s("span",{class:"text-red-600"},"Page in preparation",-1)])))}});export{d as default};
